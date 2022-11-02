@@ -1,4 +1,4 @@
-# Solução da quest proposta: Clipboard landing page
+# Solução de desafio: Clipboard landing page
 
 Esta é a solução para um desafio do site FrontEnd Mentor.
 
