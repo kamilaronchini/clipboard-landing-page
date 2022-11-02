@@ -1,0 +1,11 @@
+:root{
+    --first: hsl(228, 45%, 44%);
+    --second: hsl(233, 100%, 69%);
+    --third:hsl(171, 66%, 44%);
+    --fourth: hsl(171, 71%, 55%);
+    --fifth: hsl(171, 66%, 29%);
+    --sixth: hsl(228, 66%, 23%);
+    --neutral1: hsl(210, 10%, 33%);
+    --neutral2: hsl(201, 11%, 66%);
+    --neutral3: hsl(0, 0%, 93%);
+}
