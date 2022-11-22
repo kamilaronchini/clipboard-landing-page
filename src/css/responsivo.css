@@ -13,13 +13,12 @@
         padding: 30px 40px;
     }
 
-    .footer .links{
-        gap: 20px;
-    }
+   .footer .nav .links{
+        align-items: center;
+        margin: 10px;
+   }
 
-    .footer .links .contact, .footer .links .infos{
-        gap: 10px;
-    }
+
 }
 
 @media(max-width: 540px){
@@ -46,6 +45,10 @@
 
     .fc-text p{
         font-size: 18px;
+    }
+
+    .footer .nav .links .faqs{
+     margin: 0;
     }
 }
 
@@ -75,7 +78,7 @@
     }
 
     .d-ios, .d-mac{
-        padding: 15px 64px;
+        padding: 15px 62px;
     }
 
     .tools{

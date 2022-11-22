@@ -177,15 +177,19 @@ body{
     width: 5%;
 }
 
-.footer .links{
+.footer .nav .links{
     display: flex;
-    gap: 50px;
+    flex-wrap: wrap;
+    max-width: 500px;
+    gap: 30px;
 }
 
-.footer .links .contact, .footer .links .infos{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
+.footer .nav .links li a{
+    padding: 0 20px;
+}
+
+.footer .nav .links .faqs{
+    margin-right: 30px;
 }
 
 .footer .links li a, .social-media a{
